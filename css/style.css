@@ -1,0 +1,101 @@
+body{
+    overflow-x: hidden;
+}
+.div1{
+    background-color: white;
+    position: sticky;
+    top: -3px;
+    margin-left: -15px;
+    margin-top: 25px;
+    width:2000px;
+    height: 93px;
+    box-shadow: 5px 5px 5px rgba(1, 1, 1, 0.05);
+    z-index: 100;
+    
+}
+#img1{
+    margin-left: 10px;
+    margin-top: -25px;
+}
+#img2{
+    position: relative;
+    left: 690px;
+    top: -47px;
+ }
+ 
+ #img3{
+     position: relative;
+     top:-47px;
+     left:690px ;
+ }
+ #img4{
+     position: relative;
+     top:-47px;
+     left:690px ;
+ }
+span{
+    position: relative;
+   left: 635px;
+   top: -70px;
+}
+.main{
+    position: relative;
+    left: -70px;
+    top: -70px;
+}
+
+.div2{
+    
+    height: 1000px;
+    width: 1800px;
+    margin-left: -15px;
+    margin-top:0px;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+
+h2{
+    color: white;
+    position: relative;
+    left: 40px;
+    top: -830px;
+    font-size: 50px;
+}
+small{
+    color: white;
+    position: relative;
+    left: 40px;
+    top: -908px;
+    font-size: 18px;
+
+}
+.div3{
+    background-color: black;
+    height:350px;
+    width:1800px;
+    margin-left: -15px;
+    margin-top: -5px;
+    color:white;
+}
+#p1,#w{
+    position: relative;
+    left: 210px;
+}
+#p2,#z{
+  position: relative;
+  left: 630px;
+  top:-290px;
+}
+ #div3 #p3,#y,#s,input{
+    position: relative;
+    left:978px;
+    top:-545px;
+}
+p{
+    font-size: 30px;
+}
+h4{
+    font-size: 40px;
+}

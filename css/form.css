@@ -1,0 +1,101 @@
+
+div{
+    margin-top: 50px;
+    border:1px white solid;
+    background-color: white;
+    width: 830px;
+    height:800px;
+    margin-left: 350px;
+    border-radius: 10px;
+}
+h1{
+    margin-left: 20px;
+    display: inline;
+}
+#a{
+    margin-left: 318px;
+}
+#b{
+    margin-left: 361px;
+}
+#c{
+    margin-left: 373px;
+}
+.d{
+    margin-left: 370px;
+}
+.e{
+    outline:1px solid rgb(234, 231, 231);
+    width:375px;
+    height:34px;
+    position: relative;
+    top:-1px;
+
+   
+}
+button{
+    color:white;
+    font-size: 21px;
+    background-color: rgb(153, 148, 148);
+    transform: translate(698px,20px);
+    border-color:  rgb(153, 148, 148);
+    border-radius: 8px;
+}
+button:hover{
+    background-color: red;
+    border-color: red;
+}
+input,select{
+    border:1px solid rgb(164, 161, 161);
+    border-radius: 7px;
+    width:374px;
+    line-height: 32px;
+    padding: 10px;
+    font-size: 15px;
+    margin-left: 11px;
+}
+select{
+    height: 55px;
+    width:398px;
+}
+
+
+textarea{
+    border:1px solid rgb(164, 161, 161);
+    border-radius: 7px;
+    width:805px;
+    margin-left: 10px;
+}
+form{
+    position: relative;
+    top: 50px;
+}
+#f,#g,#h,#i,#j{
+    margin-left: 14px;
+}
+label{
+    
+    font-size: 20px;
+}
+b{
+    font-size: 20px;
+   position: relative;
+   top: 40px;
+
+}
+h1{
+    position: relative;
+    top: 40px;
+}
+.e:focus{
+    outline-color: green;
+}
+input:focus{
+    outline-color: green;
+}
+textarea:focus{
+    outline-color: green;
+}
+select:focus{
+    outline-color: green;
+}
